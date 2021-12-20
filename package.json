@@ -116,7 +116,7 @@
     "style-loader": "3.0.0",
     "stylelint-config-prettier": "8.0.2",
     "stylint": "2.0.0",
-    "stylus": "0.54.8",
+    "stylus": "0.56.0",
     "stylus-loader": "6.1.0",
     "stylus-supremacy": "2.15.0",
     "terser-webpack-plugin": "^5.1.4",
